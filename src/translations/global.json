@@ -1,0 +1,566 @@
+{
+  "nav": [
+    "أفق اليوم",
+    "Today's offers"
+  ],
+  "search": [
+    "بحث",
+    "Search"
+  ],
+  "ChooseCity": [
+    "اختر مدينة",
+    "Choose City"
+  ],
+  "ChooseCategory": [
+    "اختر الفئة",
+    "Choose Category"
+  ],
+  "UserMenuText": [
+    "قائمة المستخدم",
+    "User Menu"
+  ],
+  "MyOfoghsText": [
+    "آفاقي",
+    "My Ofoghs"
+  ],
+  "SupportText": [
+    "الدعم",
+    "Support"
+  ],
+  "BuyCreditText": [
+    "شراء الائتمان",
+    "Buy Credit"
+  ],
+  "searchPlaceholder": [
+    "بحث: مطعم، ناد ...",
+    "Search: Restaurant, Horizon gym..."
+  ],
+  "myAccount": [
+    "الملف",
+    "Profile"
+  ],
+  "logOut": [
+    "تسجيل خروج",
+    "Log out"
+  ],
+  "TodaysOffers": [
+    "آفاق اليوم",
+    "Today's Ofoghs"
+  ],
+  "SpecialOffers": [
+    "آفاق خاصة",
+    "Special Ofoghs"
+  ],
+  "discount": [
+    "خصم",
+    "Discount"
+  ],
+  "currency": [
+    "ریال",
+    "OMR"
+  ],
+  "observingThisCategory": [
+    "عرض كل الآفاق ",
+    "Get All Ofoghs of "
+  ],
+  "OfoghsOf": [
+    "آفاق ",
+    "Ofoghs of"
+  ],
+  "NotifyMe": [
+    "أعلمني",
+    "Be aware of the latest ofoghs"
+  ],
+  "AboutAlofogh": [
+    "حول افق",
+    "About Alofogh"
+  ],
+  "AboutUs": [
+    "معلومات عنا",
+    "About Us"
+  ],
+  "Achievements": [
+    "الجوائز والإنجاز",
+    "Awards and achievement"
+  ],
+  "Media": [
+    "افق في وسائل الإعلام",
+    "Alofogh in media"
+  ],
+  "Cooperate": [
+    "تعاون مع الافوق",
+    "Cooperate with Alofogh"
+  ],
+  "JobOppurtunity": [
+    "فرصة عمل",
+    "Career opportunity"
+  ],
+  "Advertise": [
+    "أعلن عن عملك",
+    "Advertise your business"
+  ],
+  "OrganizationCooperate": [
+    "خدمات تنظيم خاصة",
+    "Special services for organization"
+  ],
+  "OrderizeByUsersRates": [
+    "ترتيب حسب أسعار المستخدمين",
+    "Orderize by users rates"
+  ],
+  "PartnersFAQs": [
+    "شركاءالأعمال التعليمات",
+    "Business partners FAQs."
+  ],
+  "ReadMore": [
+    "إقرأ المزيد",
+    "Read More"
+  ],
+  "HowAlofoghWorks": [
+    "كيف يعمل الافق ",
+    "How alofogh works"
+  ],
+  "GreenOffers": [
+    "العرض الأخضر",
+    "Green Offers"
+  ],
+  "PrivacyPolicy": [
+    "سياسة الخصوصية وخصوصية المستخدم",
+    "Privacy And User Privacy Policy"
+  ],
+  "ContactUs": [
+    "اتصل بنا",
+    "Contact Us"
+  ],
+  "Representative": [
+    "شروط الحصول على ممثل",
+    "Conditions Of Obtaining A Representative"
+  ],
+  "CustomerFAQs": [
+    "أسئلة وأجوبة العملاء",
+    "Customer FAQs "
+  ],
+  "ReplacementOrders": [
+    "شروط استبدال وشروط الامتياز لأوامر البضائع",
+    "Replacement And Concessionary Terms Of Goods Orders"
+  ],
+  "PaymentAnnouncement": [
+    "إعلان الدفع من بطاقة إلى بطاقة",
+    "Card-to-card Payment Aannouncement"
+  ],
+  "GoodSense": [
+    "شعور جيد بالإثارة ، مع خصومات يومية",
+    "Good Sense Of Excitement, With Daily Discounts"
+  ],
+  "EnterEmail": [
+    "احصل على أحدث تخفيضات المدينة عن طريق إدخال بريدك الإلكتروني",
+    "Recieve The Latest City Discounts By Entering Your Email"
+  ],
+  "LatestDiscounts": [
+    "آخر خصومات",
+    "Recieve The Latest Discounts"
+  ],
+  "Subscribe": [
+    "الاشتراک",
+    "Subscribe"
+  ],
+  "AllSubCategories": [
+    "جميع الفئات الفرعية",
+    "All Sub Categories"
+  ],
+  "AllSubCategoriesOf": [
+    "جميع الفئات الفرعية",
+    "All Sub Categories of"
+  ],
+  "FollowAlofogh": [
+    "اتبع الأفوق",
+    "Follow Alofogh"
+  ],
+  "OrganizationServices": [
+    "خدمات خاصة للمنظمات",
+    "Special Services"
+  ],
+  "GetApplication": [
+    "احصل التطبيق",
+    "Get Application"
+  ],
+  "myOfoghs": [
+    "آفاقي",
+    "My Ofoghs"
+  ],
+  "ProfileEdit": [
+    "تحرير الملف الشخصي",
+    "Edit Profile"
+  ],
+  "AddressBook": [
+    "دفتر العناوين",
+    "Address"
+  ],
+  "BuyCredit": [
+    "شراء الائتمان",
+    "Buy Credit"
+  ],
+  "GiftCode": [
+    "إرسال رمز الهدية",
+    "Submit Gift Code"
+  ],
+  "YourMoney": [
+    "مالك",
+    "Your money"
+  ],
+  "Discount": [
+    "خصم",
+    "Discount"
+  ],
+  "Buy": [
+    "اشتري",
+    "Buy"
+  ],
+  "PurchaseDeadline": [
+    "شراء الموعد النهائي",
+    "PurchaseDeadline"
+  ],
+  "GiveAGift": [
+    "اعطي هدية",
+    "Give a gift"
+  ],
+  "BuyNow": [
+    "اشتري الآن",
+    "Buy Now"
+  ],
+  "Features": [
+    "المميزات",
+    "Features"
+  ],
+  "TermsOfUse": [
+    "شروط الاستعمال",
+    "Terms of Use"
+  ],
+  "AbilityToUse": [
+    "القدرة على الاستعمال بعد الشراء",
+    "Ability to use at the moment of purchase"
+  ],
+  "AbilityToUseOf": [
+    "القدرة على استخدام",
+    "Ability to use of"
+  ],
+  "BuyingMoment": [
+    "شراء لحظة",
+    "Buying moment"
+  ],
+  "NumberOfPurchases": [
+    "لا يوجد حد لعدد المشتريات",
+    "No limit on the number of purchases"
+  ],
+  "OnNumberOfPurchases": [
+    "عدد المشتريات",
+    "Number of purchases"
+  ],
+  "NoRestrictionsOn": [
+    "لا يوجد حد لعدد المشتريات",
+    "No restrictions on"
+  ],
+  "EveryPersonCoupons": [
+    "كل قسيمة خصم لشخص واحد فقط",
+    "Every discount coupons Only for one person"
+  ],
+  "EveryDiscountCoupon": [
+    "كل كوبون خصم",
+    "Every discount coupon"
+  ],
+  "IsForOne": [
+    "هو واحد",
+    "Is for one"
+  ],
+  "From": [
+    "من ",
+    "From"
+  ],
+  "To": [
+    "إلى ",
+    "To"
+  ],
+  "GreenCoupons": [
+    "االأفق الأخضر لا حاجة للطباعة",
+    "Green horizon No need to print"
+  ],
+  "GreenOfoghs": [
+    "آفاق خضراء",
+    "Green ofoghs"
+  ],
+  "NoNeedToPrint": [
+    "لا حاجة للطباعة",
+    "No need to print"
+  ],
+  "ServiceTime": [
+    "المساءلة ووقت الخدمة",
+    "Accountability and service time"
+  ],
+  "ServiceDays": [
+    "أيام الخدمة",
+    "Service Days"
+  ],
+  "Day": [
+    "الیوم",
+    "Day"
+  ],
+  "PhoneNumber": [
+    "رقم الهاتف",
+    "Phone Number"
+  ],
+  "Address": [
+    "عنوان",
+    "Address"
+  ],
+  "SeeTheAddress": [
+    "انظر العنوان",
+    "See the address"
+  ],
+  "FurtherDetails": [
+    "تفاصيل اضافيه",
+    "Further Details"
+  ],
+  "Comments": [
+    "تعليقات",
+    "Comments"
+  ],
+  "ViewPoints": [
+    "وجهات النظر",
+    "Viewpoint"
+  ],
+  "FirstComment": [
+    "كن أول من يكتب عن افق",
+    "Be the first who left a comment for alofogh"
+  ],
+  "WriteComment": [
+    "كتابه تعليق جديد",
+    "Write a new comment"
+  ],
+  "Name": [
+    "اسم",
+    "Name"
+  ],
+  "Mobile": [
+    "رقم الهاتف",
+    "Mobile"
+  ],
+  "EMail": [
+    "البريد الالكتروني",
+    "E-Mail"
+  ],
+  "PostComment": [
+    "أرسل تعليق",
+    "Post Comment"
+  ],
+  "Cart": [
+    "عربة التسوق",
+    "Cart"
+  ],
+  "ByATM": [
+    "ماكينة الصراف الآلي",
+    "By ATM"
+  ],
+  "ThePayment": [
+    "الدفع",
+    "the payment"
+  ],
+  "Payment": [
+    "الدفع",
+    "payment"
+  ],
+  "GetCodes": [
+    "الحصول على الرموز",
+    "Get codes"
+  ],
+  "ProceedToCheckOut": [
+    "باشرالخروج من الفندق",
+    "Proceed To CheckOut"
+  ],
+  "UnitPrice": [
+    "سعر الوحدة",
+    "Unit Price"
+  ],
+  "TotalPrice": [
+    "السعر الكلي",
+    "Total Price"
+  ],
+  "SavedMoney": [
+    "لقد أنقذت  ريال في المجموع",
+    "You have saved rials in total"
+  ],
+  "TheAmountPayable": [
+    "المبلغ المستحق الدفع",
+    "The Amount Payable"
+  ],
+  "ReturnToMainPage": [
+    "ارجع إلى الصفحة الرئيسية",
+    "Return to main page"
+  ],
+  "PaymentMethod": [
+    "طريقة الدفع",
+    "payment method"
+  ],
+  "PaymentNotice": [
+    "سيتم إعادة توجيهك إلى صفحة البنك عن طريق اختيار طريقة الدفع والعودة إلى الأفق بعد الدفع.",
+    "You will be redirected to the Bank page by selecting the payment method and returning to the alofogh after payment."
+  ],
+  "PreviouStep": [
+    "الخطوة السابقة",
+    "Previous step"
+  ],
+  "PayAndCompleteThePurchase": [
+    "دفع وإكمال الشراء",
+    "Pay and complete the purchase"
+  ],
+  "ClickToViewTheLicense": [
+    "انقر لعرض الترخيص",
+    "Click to view the license"
+  ],
+  "DownloadLink": [
+    "نزل من گوگل پلی",
+    "download google play"
+  ],
+  "MainText": [
+    "عزيزي الافق الزبون،بفضل شرائك رمز الخصم الذي اشتريته هو كما يلي،لقراءة شروط استخدام الخصم المشترى ، يرجى الاطلاع على الملف المرفق ",
+    "Dear Alofogh's customer,Thanks to your purchase, the discount code you purchased is as follows:,To read the terms of use of your purchased discount, please see the attached file."
+  ],
+  "OfoghName": [
+    "اسم الافق",
+    "Ofogh's Name"
+  ],
+  "Unitprice": [
+    "سعر الوحدة",
+    "Unit price"
+  ],
+  "Quantity": [
+    "الكمية",
+    "Quantity"
+  ],
+  "TotalPayment": [
+    "مجموع المدفوعات",
+    "Total Payment"
+  ],
+  "TotalDiscount": [
+    "الخصم الكلي الذي لديك",
+    "Total discount that you've got"
+  ],
+  "Guide": [
+    "إذا كان لديك أي أسئلة حول كيفية استخدام العرض الخاص بك أو حسابك أو أي قضايا أخرى . يمكنك الاتصال بنا على رقم الهاتف 79252885 أو البريد الإلكتروني support@alofogh.com",
+    "If you have any questions about how to use your offer or your account or any other issues, you can contact us at phone number 79252885 or email support@alofogh.com"
+  ],
+  "MoreDiscount": [
+    "أتريد المزيد من الخصومات؟",
+    "Want more discounts?"
+  ],
+  "InstantlyDiscount": [
+    "خصم على الفور",
+    "Instantly"
+  ],
+  "WeekDiscount": [
+    "المزيد من الخصومات لجميع عروض الخصم الإئتمان لأسبوع واحد",
+    "5% discounts for all discount offers Credit for one week"
+  ],
+  "FivePercent": [
+    "خصم 5٪ على جميع عروض الخصم الائتمان لمدة أسبوع واحد",
+    "5% more discount on all discount offers Credit for one week"
+  ],
+  "MoreOfoghs": [
+    "انظر المزيد افق",
+    "See more ofoghs"
+  ],
+  "CompletePurchase": [
+    "اکمل الشراء ",
+    "Complete Purchase"
+  ],
+  "RecieveCodes": [
+    "إستلم الرموز",
+    "Get Your Codes By Finishing The Purchase"
+  ],
+  "Thanks": [
+    "شكرا على شرائك",
+    "Thanks For Your Purchase"
+  ],
+  "Submit": [
+    "قدم",
+    "Submit"
+  ],
+  "PurchasedCodes": [
+    "الرموز المشتراة",
+    "Purchased Codes"
+  ],
+  "DownloadOfoghs": [
+    "نزل الافق",
+    "Download Ofoghs"
+  ],
+  "SeeOfoghs": [
+    "انظرالافق",
+    "See Ofoghs"
+  ],
+  "OfoghTitle": [
+    "عنوان افق",
+    "Ogofh Title"
+  ],
+  "Code": [
+    "رمز الافق",
+    "Ofogh's Code"
+  ],
+  "OrderId": [
+    "ترتيب الهوية",
+    "Order Id"
+  ],
+  "Owner": [
+    "صاحب الافق",
+    "Ofogh's Owner"
+  ],
+  "OffersValue": [
+    "يقدم قيمة حقيقية",
+    "Offers Real Value"
+  ],
+  "DiscountedPrice": [
+    "الأسعار المخفضة",
+    "Price After Discount"
+  ],
+  "ExpireDate": [
+    "تاريخ انتهاء الصلاحية",
+    "Expire Date"
+  ],
+  "WorkHours": [
+    "ساعات العمل",
+    "Work Hours"
+  ],
+  "YouPaid": [
+    "لقد دفعت",
+    "The Amount You Paid"
+  ],
+  "Rial": [
+    "ریال",
+    "Omani Rial"
+  ],
+  "Sold": [
+    "تباع",
+    "Sold"
+  ],
+  "DetailsAndPurchase": [
+    "عرض التفاصيل والشراء",
+    "View details and purchase"
+  ],
+  "Total": [
+    "مجموع",
+    "Total"
+  ],
+  "OnBehalfOf": [
+    "بالنيابة عن",
+    "on behalf of"
+  ],
+  "Message": [
+    "رسالة",
+    "Message"
+  ],
+  "Cancel": [
+    "إلغاء",
+    "Cancel"
+  ],
+  "Save": [
+    "حفظ",
+    "Save"
+  ]
+}

@@ -1,0 +1,440 @@
+{
+    "rtl": {
+        "headerInputForm": {
+            "margin-left": "2px"
+        },
+        "right": {
+            "float": "right"
+        },
+        "takhfifanGroupTitleH2I": {
+            "float": "right",
+            "margin-left": "5px"
+        },
+        "langSelect": {
+            "float": "left",
+            "margin-top": 0,
+            "margin-right": "10px"
+        },
+        "direction": {
+            "direction": "rtl"
+        },
+        "left": {
+            "float": "left"
+        },
+        "body": {
+            "direction": "rtl",
+            "text-align": "right",
+            "font-family": "'Cairo', sans-serif"
+        },
+        "city": {
+            "margin-right": "70px"
+        },
+        "headerInput": {
+            "margin": "19px 10px 0 0"
+        },
+        "iconSearch": {
+            "margin-right": "11px"
+        },
+        "basketLink": {
+            "padding": "0 25px 0 0"
+        },
+        "basketLabel": {
+            "margin-right": "-5px",
+            "float": "right"
+        },
+        "shoppingBasket": {
+            "left": "-10px"
+        },
+        "shoppingBasketBefore": {
+            "left": "25px"
+        },
+        "itemsListUl": {
+            "direction": "rtl"
+        },
+        "itemsListUlLiLink": {
+            "float": "right"
+        },
+        "itemsListUlLiLinkImg": {
+            "float": "right",
+            "margin-left": "10px"
+        },
+        "itemsListUlLiItemDelete": {
+            "padding": "0 0 0 3%"
+        },
+        "myAccountCnt": {
+            "left": 0
+        },
+        "myAccountCntBefore": {
+            "right": "50px"
+        },
+        "myAccountCntUlLiLinkSpan": {
+            "float": "right",
+            "margin-left": "7px"
+        },
+        "mainDealBottomDivFirstChild": {
+            "border-left": "1px solid #e4e4e4"
+        },
+        "discountPrice": {
+            "text-align": "right"
+        },
+        "discountPriceBefore": {
+            "float": "right",
+            "margin-left": "18px"
+        },
+        "valueEm": {
+            "right": "4px"
+        },
+        "discount": {
+            "right": "0"
+        },
+        "location": {
+            "float": "right",
+            "margin-left": "3px",
+            "right": "7px"
+        },
+        "dealsDeal": {
+            "float": "right"
+        },
+        "giftBtn": {
+            "margin-left": "12px",
+            "float": "right"
+        },
+        "dealsThreeColDeal": {
+            "margin": "0 14px 20px 0"
+        },
+        "dealThirdChild": {
+            "margin-left": "0 !important"
+        },
+        "locationBefore": {
+            "float": "right",
+            "margin-left": "4px"
+        },
+        "iconDotsBefore": {
+            "float": "left"
+        },
+        "dealTitle": {
+            "text-align": "right"
+        },
+        "dealSales": {
+            "float": "right"
+        },
+        "dealPrice": {
+            "float": "left"
+        },
+        "dealSalesSpan": {
+            "float": "right"
+        },
+        "dealSalesNumber": {
+            "margin-right": "5px"
+        },
+        "noNeedToPrint": {
+            "margin-left": "6px",
+            "float": "right"
+        },
+        "vendorRating": {
+            "left": "12px"
+        },
+        "subcategoriesSection": {
+            "float": "left",
+            "padding-right": "25px"
+        },
+        "categoryVendorRating": {
+            "text-align": "left",
+            "padding-left": "10px",
+            "border-left": "1px solid #e2e2e2",
+            "float": "left",
+            "margin-left": "15px"
+        },
+        "dealFeaturesRight": {
+            "border-left": "1px dashed #e1e1e1"
+        },
+        "mainDeal": {
+            "float": "right"
+        },
+        "extraBox": {
+            "float": "left"
+        },
+        "btnIconBefore": {
+            "right": "52px"
+        },
+        "btnIconAfter": {
+            "right": "52px"
+        },
+        "mainDealImg": {
+            "border-right": "1px solid #f4f4f4"
+        },
+        "useNowBefore": {
+            "right": 0,
+            "-webkit-border-radius": "0 5px 0 0",
+            "background-image": "url(/images/sprites/sprite.png?ver=1527588877372)",
+            "background-position": "-255px -163px",
+            "width": "80px",
+            "height": "80px",
+            "background-size": "auto",
+            "top": 0,
+            "z-index": 1,
+            "display": "block"
+        },
+        "footerNewsletterInput": {
+            "float": "right",
+            "margin-left": "5px",
+            "border-top-left-radius": "5px",
+            "border-bottom-left-radius": "5px"
+        },
+        "iconEmail": {
+            "float": "right"
+        },
+        "cityWrapper": {
+            "float": "right"
+        },
+        "control": {
+            "border-left": "1px solid #ccc"
+        },
+        "controlLabel": {
+            "float": "right",
+            "text-align": "right"
+        },
+        "LinkDefaultText": {
+            "border-radius": "0 0 5px 14px"
+        },
+        "dropdownItems": {
+            "right": "0",
+            "text-align": "right"
+        },
+        "icons": {
+            "float": "left"
+        },
+        "footerCol": {
+            "float": "right",
+            "margin": "35px 12px 30px 0"
+        },
+        "footerCnt": {
+            "text-align": "right"
+        },
+        "footerData": {
+            "float": "right"
+        },
+        "defaultText": {
+            "text-align": "right"
+        }
+    },
+    "ltr": {
+        "headerInputForm": {
+            "margin-right": "2px"
+        },
+        "right": {
+            "float": "left"
+        },
+        "langSelect": {
+            "float": "right",
+            "margin-top": 0,
+            "margin-left": "10px"
+        },
+        "takhfifanGroupTitleH2I": {
+            "float": "left",
+            "margin-right": "5px"
+        },
+        "direction": {
+            "direction": "ltr"
+        },
+        "left": {
+            "float": "right"
+        },
+        "body": {
+            "direction": "ltr",
+            "text-align": "left",
+            "font-family": "'Source Sans Pro', sans-serif"
+        },
+        "city": {
+            "margin-left": "70px"
+        },
+        "headerInput": {
+            "margin": "19px 0 0 10px"
+        },
+        "iconSearch": {
+            "margin-left": "11px"
+        },
+        "basketLink": {
+            "padding": "0 0 0 25px"
+        },
+        "basketLabel": {
+            "margin-left": "-5px",
+            "float": "left"
+        },
+        "shoppingBasket": {
+            "right": "-10px"
+        },
+        "shoppingBasketBefore": {
+            "right": "25px"
+        },
+        "itemsListUl": {
+            "direction": "ltr"
+        },
+        "itemsListUlLiLink": {
+            "float": "left"
+        },
+        "itemsListUlLiLinkImg": {
+            "float": "left",
+            "margin-right": "10px"
+        },
+        "itemsListUlLiItemDelete": {
+            "padding": "0 0 0 3%"
+        },
+        "myAccountCnt": {
+            "right": 0
+        },
+        "myAccountCntBefore": {
+            "left": "50px"
+        },
+        "myAccountCntUlLiLinkSpan": {
+            "float": "left",
+            "margin-right": "7px"
+        },
+        "mainDealBottomDivFirstChild": {
+            "border-right": "1px solid #e4e4e4"
+        },
+        "discountPrice": {
+            "text-align": "left"
+        },
+        "discountPriceBefore": {
+            "float": "left",
+            "margin-right": "18px"
+        },
+        "valueEm": {
+            "left": "4px"
+        },
+        "discount": {
+            "left": "0"
+        },
+        "location": {
+            "float": "left",
+            "margin-right": "3px",
+            "left": "7px"
+        },
+        "dealsDeal": {
+            "float": "left"
+        },
+        "giftBtn": {
+            "margin-right": "12px",
+            "float": "left"
+        },
+        "dealsThreeColDeal": {
+            "margin": "0 14px 20px 0"
+        },
+        "dealThirdChild": {
+            "margin-right": "0 !important"
+        },
+        "locationBefore": {
+            "float": "left",
+            "margin-right": "4px"
+        },
+        "iconDotsBefore": {
+            "float": "right"
+        },
+        "dealTitle": {
+            "text-align": "left"
+        },
+        "dealSales": {
+            "float": "left"
+        },
+        "dealPrice": {
+            "float": "right"
+        },
+        "dealSalesSpan": {
+            "float": "left"
+        },
+        "dealSalesNumber": {
+            "margin-left": "5px"
+        },
+        "noNeedToPrint": {
+            "margin-right": "6px",
+            "float": "left"
+        },
+        "vendorRating": {
+            "right": "12px"
+        },
+        "subcategoriesSection": {
+            "float": "right",
+            "padding-left": "25px"
+        },
+        "categoryVendorRating": {
+            "text-align": "right",
+            "padding-right": "10px",
+            "border-right": "1px solid #e2e2e2",
+            "float": "right",
+            "margin-right": "15px"
+        },
+        "dealFeaturesRight": {
+            "border-right": "1px dashed #e1e1e1"
+        },
+        "mainDeal": {
+            "float": "left"
+        },
+        "extraBox": {
+            "float": "right"
+        },
+        "btnIconBefore": {
+            "left": "52px"
+        },
+        "btnIconAfter": {
+            "left": "52px"
+        },
+        "mainDealImg": {
+            "border-left": "1px solid #f4f4f4"
+        },
+        "useNowBefore": {
+            "left": 0,
+            "background-position": "-640px -205px",
+            "-webkit-border-radius": "0 5px 0 0",
+            "background-image": "url(/images/sprites/sprite.png?ver=1527588877372)",
+            "width": "80px",
+            "height": "80px",
+            "background-size": "auto",
+            "top": 0,
+            "z-index": 1,
+            "display": "block"
+        },
+        "footerNewsletterInput": {
+            "float": "left",
+            "margin-right": "5px",
+            "border-top-right-radius": "5px",
+            "border-bottom-right-radius": "5px"
+        },
+        "iconEmail": {
+            "float": "left"
+        },
+        "cityWrapper": {
+            "float": "left"
+        },
+        "control": {
+            "border-right": "1px solid #ccc"
+        },
+        "controlLabel": {
+            "float": "left",
+            "text-align": "left"
+        },
+        "LinkDefaultText": {
+            "border-radius": "0 0 5px 14px"
+        },
+        "dropdownItems": {
+            "left": "0",
+            "text-align": "left"
+        },
+        "icons": {
+            "float": "right"
+        },
+        "footerCol": {
+            "float": "left",
+            "margin": "35px 12px 30px 0"
+        },
+        "footerCnt": {
+            "text-align": "left"
+        },
+        "footerData": {
+            "float": "left"
+        },
+        "defaultText": {
+            "text-align": "left"
+        }
+    }
+}

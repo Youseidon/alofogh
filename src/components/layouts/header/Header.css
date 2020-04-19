@@ -1,0 +1,28 @@
+.header .main-bar .logo {
+    height: auto;
+    /* margin-top: 15px */
+}
+
+.header .main-bar .logo img {
+    width: 90px;
+    height: 54px;
+}
+
+.langSelect {
+    text-decoration: none;
+    text-transform: uppercase;
+    /* font-family: Raleway; */
+    color: #546e7a;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #fdfeff;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 979px) {
+    .langSelect {
+        margin: 0;
+        line-height: 56px;
+        margin: 0 15px 0 5px
+    }
+}
