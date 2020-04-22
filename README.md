@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Release of this project is for last 2 month. Release 7.
 
 ## Available Scripts
 
