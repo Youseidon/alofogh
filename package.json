@@ -54,7 +54,7 @@
     "react-animated-css": "^1.2.1",
     "react-app-polyfill": "^1.0.1",
     "react-breadcrumbs-dynamic": "^1.2.1",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-facebook-login": "^4.1.1",
     "react-fade-in": "^0.1.6",
