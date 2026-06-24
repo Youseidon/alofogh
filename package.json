@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/core": "7.4.3",
+    "@babel/core": "7.29.6",
     "@babel/register": "^7.7.0",
     "@callstack/react-theme-provider": "^3.0.5",
     "@svgr/webpack": "4.1.0",
